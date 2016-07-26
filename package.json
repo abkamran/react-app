@@ -1,0 +1,27 @@
+{
+  "name": "react-only",
+  "version": "1.0.0",
+  "description": "An application to work with react alone and will implement redux later.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abkamran/react-app.git"
+  },
+  "keywords": [
+    "react",
+    "mocha",
+    "application"
+  ],
+  "author": "SyedABKamran",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/abkamran/react-app/issues"
+  },
+  "dependencies": {
+    "react": "~15.2.1",
+    "react-dom": "~15.2.1"
+  }
+}
